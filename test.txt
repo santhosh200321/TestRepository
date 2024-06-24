@@ -1,0 +1,7 @@
+This the folder for practicing the git and git hub 
+
+some cmd 
+1.cd 
+2.mkdir 
+3.dir 
+4.cd.> .exetension
